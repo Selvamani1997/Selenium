@@ -11,7 +11,8 @@
 	Manual Testing (6 days)
 	Github (3 days)
 	Jenkins(4 days)
-
+	Jmeter (7 days)
+	
 4. Prepare Resume - 2 days
 
 5. find out the opportunity - 7 days
