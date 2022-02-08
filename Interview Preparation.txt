@@ -3,12 +3,14 @@
 2. find out the source for preparation - 1 day (Completed)
 
 3. Preparation - 60 days
-	database  - Sql (7 days) - started
-	Rest API (7 days)
-	languages - Python or Java (15 days)
+	database  - Sql (7 days) - Completed
+	Rest API (7 days) - Completed
+	languages:Java (15 days) -Completed
 	Automation Testing - Selenium using python or Java (15 Days)
 	Test Driven and Behavior Driven Automation Framework and Cucumber (10 days)
 	Manual Testing (6 days)
+	Github (3 days)
+	Jenkins(4 days)
 
 4. Prepare Resume - 2 days
 
